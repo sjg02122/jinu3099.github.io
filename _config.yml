@@ -1,0 +1,30 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+remote_theme : poole/hyde
+
+title:            Play Fun
+tagline:          'Data Science'
+description:      'Amazing Blog'
+url:              "https://jinwoo.github.io"
+baseurl:          /
+
+author:
+  name:           'Jinu'
+  url:            https://github.com/sjg02122
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/sjg02122
+  
+  
